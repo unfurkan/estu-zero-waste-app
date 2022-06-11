@@ -19,19 +19,14 @@ User-friendly mobile application that aims to increase recycling habits and rais
 
 > SOME UI EXAMPLES FROM APP
 
-> Splash Screen
-![](https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/SPLASH_SCREEN.jpg)
+> Splash Screen /  Dynamic Waste Bin Mapping
+<img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/SPLASH_SCREEN.jpg" alt="drawing" width="250"/> <img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/MAP.jpg" alt="drawing" width="250"/>
 
-> Dynamic Waste Bin Mapping
-![](https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/MAP.jpg)
 
-> Routing and Navigation
-![](https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/ROTA.jpeg)
+> Routing and Navigation / Portal Page
+<img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/ROTA.jpeg" alt="drawing" width="250"/> <img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/PORTAL.jpg" alt="drawing" width="250"/>
 
-> Portal Page
-![](https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/PORTAL.jpg)
 
 > Carbon Foot Print Calculation
-
-![](https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/FOOT_PRINT.jpg)
+<img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/FOOT_PRINT.jpg" alt="drawing" width="500"/> <img
 
