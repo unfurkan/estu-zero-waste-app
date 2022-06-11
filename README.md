@@ -28,5 +28,5 @@ User-friendly mobile application that aims to increase recycling habits and rais
 
 > Carbon Foot Print Calculation
 
-<img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/FOOT_PRINT.jpg" alt="drawing" width="500"/> <img
+<img src="https://raw.githubusercontent.com/unfurkan/quartz-scheduling/main/FOOT_PRINT.jpg" alt="drawing" width="500"/>
 
